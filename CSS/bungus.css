@@ -1,0 +1,33 @@
+body{
+    background-color: crimson;
+}
+
+h1{
+font-size: 30px;
+color: teal;
+}
+
+h2{
+font-size: 45px;
+color: khaki;
+}
+
+.big{
+font-size: 60px;
+}
+
+.uppercase{
+text-transform: uppercase;
+}
+
+.fancy{
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.big.fancy{
+color: navy;
+}
+
+span{
+color: violet;
+}
